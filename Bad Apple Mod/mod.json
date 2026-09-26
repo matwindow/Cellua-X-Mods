@@ -1,0 +1,22 @@
+{
+    "name": "Bad Apple 50x25",
+    "description": "Blyskawiczny odtwarzacz wideo Hex String 50x25.",
+    "author": "Twój Nick",
+    "version": "1.0",
+    "cells": [
+        {
+            "id": 4010,
+            "name": "test",
+            "texture": "Alternative Mover.png",
+            "category": 9,
+            "max": 99
+        },
+        {
+            "id": 4011,
+            "name": "badapplecell",
+            "texture": "badapplecell.png",
+            "category": 9,
+            "max": 99
+        }
+    ]
+}
